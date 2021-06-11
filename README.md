@@ -10,11 +10,17 @@ I take NO responsibility and/or liability for how you choose to use any of the s
 # MS-Teams_autoattend
 Waking up early in the morning to attend some online classes is hard. So I made a bot that attends my boring online classes for me according to my timetable, which allows me to focus more on the classes that I prefer and get more work done.
 
+
+
 # Compatibility OS compatibilty:
 WINDOWS MAC OS LINUX
 
 # Browser compatibility:
 Google Chrome
+
+# chrome driver
+if you don't have chrome dont worry, chrome driver will  automatically be installed once to run the bot.exe file
+
 
 # what bot does
 Bot login into your account usnig the user_id and password you give and keeps on checking  for meeting every 5 mins. first the bot goes through all the teams and calender and then  join the meeting that currently going on after the end of meeting it automatically joins another meeting (if there)
