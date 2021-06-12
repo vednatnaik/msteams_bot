@@ -19,7 +19,7 @@ WINDOWS MAC OS LINUX
 Google Chrome
 
 # chrome driver
-if you don't have chrome dont worry, chrome driver will  automatically be installed once to run the bot.exe file
+if you don't have chrome dont worry, chrome driver will  automatically be installed once you run the bot.exe file
 
 
 # what bot does
